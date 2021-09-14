@@ -1,0 +1,21 @@
+[
+    {
+        "id":"1",
+        "nombre":"manuelenco",
+        "apellido":"nuñezlov",
+        "edad":"34"
+    },
+    {
+        "id":"2",
+        "nombre":"gustavo",
+        "apellido":"petranco",
+        "edad":"23"
+    },
+    {
+        "id":"3",
+        "nombre":"carlos",
+        "apellido":"vives",
+        "edad":"26"
+    }
+
+]
